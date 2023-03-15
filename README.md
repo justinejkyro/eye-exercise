@@ -2,26 +2,24 @@
 
 This will be a description of the project. This will address what the current project does and improvements I made. 
 
-Within the TOC is a list of additional sections that could be included.
-
 ## Table of Contents
-- Technologies
 - Project Status
-- Roadmap of Future Improvements
 - License Information
+- Technologies
+- Roadmap of Future Improvements
 - Maintainers
+
+## Project Status
+Work in progress
+
+## License Information
+MIT license
 
 ## Technologies 
 How to Run: This is information someone would use to run your project on their machine.
 
-## Project Status
-Complete
-
 ## Roadmap of Future Improvements
-What additional features or functionality would be helpful to a user? 
-
-## License Information
-MIT license 
+No additional improvements or updates to this repo anytime soon.
 
 ## Maintainers
 Justine (justinejkyro)

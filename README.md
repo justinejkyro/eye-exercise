@@ -15,13 +15,13 @@ Within the TOC is a list of additional sections that could be included.
 How to Run: This is information someone would use to run your project on their machine.
 
 ## Project Status
-In progress
+Complete
 
 ## Roadmap of Future Improvements
 What additional features or functionality would be helpful to a user? 
 
 ## License Information
-This should include information about the MIT license. 
+MIT license 
 
 ## Maintainers
 Justine (justinejkyro)

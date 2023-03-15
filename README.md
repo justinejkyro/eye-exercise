@@ -13,7 +13,7 @@ This will be a description of the project. This will address what the current pr
 Work in progress
 
 ## License Information
-MIT license
+MIT license (see LICENSE.md file for additional details)
 
 ## Technologies 
 How to Run: This is information someone would use to run your project on their machine.

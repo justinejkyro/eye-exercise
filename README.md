@@ -2,13 +2,6 @@
 
 This will be a description of the project. This will address what the current project does and improvements I made. 
 
-## Table of Contents
-- Project Status
-- License Information
-- Technologies
-- Roadmap of Future Improvements
-- Maintainers
-
 ## Project Status
 Work in progress
 

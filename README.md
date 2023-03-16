@@ -1,6 +1,6 @@
 # Eye Exercise
 
-This will be a description of the project. This will address what the current project does and improvements I made. 
+In this exercise I used JavaScript "events" to connect eye motion with mouse movement on a web page. One eye was provided and I added a second eye and synchronized the eye momements to follow the mouse position on the screen using the mouse event.
 
 ## Project Status
 Work in progress, always

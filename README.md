@@ -1,5 +1,7 @@
 # Eye Exercise
 
+<img src="eyesexercise.png">
+
 In this exercise I connected JavaScript to HTML to link eye motion with mouse movement on a web page. One eye was provided and I added a second eye and synchronized the eye movement to follow the mouse position on the screen using the mouse event.
 
 ## Project Status
